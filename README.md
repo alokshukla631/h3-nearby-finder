@@ -20,13 +20,13 @@ This demo computes your H3 cell at resolutions 5 through 11, shows your k=1 ring
 
 ## Features
 
-- 🌍 **Auto-detects your location** from your public IP (no GPS / no permissions needed)
-- 🗺️ **Prints H3 cell IDs** at four resolutions (5, 7, 9, 11) with approximate area
-- 🔷 **Shows k=1 neighbor ring** at resolution 9 (~174 m hexagons)
-- 🍜 **Queries any amenity** via Overpass QL (`restaurant`, `cafe`, `bar`, `fast_food`, …)
-- 📏 **Sorts by haversine distance** in miles
-- 🏷️ **Shows each result's H3 cell ID** so you can do further spatial reasoning
-- 💾 **Caches Overpass results** to a temp file — rerun instantly
+- **Auto-detects your location** from your public IP (no GPS / no permissions needed)
+- **Prints H3 cell IDs** at four resolutions (5, 7, 9, 11) with approximate area
+- **Shows k=1 neighbor ring** at resolution 9 (~174 m hexagons)
+- **Queries any amenity** via Overpass QL (`restaurant`, `cafe`, `bar`, `fast_food`, …)
+- **Sorts by haversine distance** in miles
+- **Shows each result's H3 cell ID** so you can do further spatial reasoning
+- **Caches Overpass results** to a temp file — rerun instantly
 
 ---
 
